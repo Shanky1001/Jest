@@ -26,3 +26,6 @@ describe('Testing Sum function with numbers', () => {
         expect(val).toBeLessThan(100)
     })
 })
+
+
+// Async Function Testing
